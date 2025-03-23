@@ -1,6 +1,7 @@
 ## 20250316 python 練習標題(mark down 語法)
 ---
 hello world <br>
+say hello world <br>
 how are you
 ```
 git add .
